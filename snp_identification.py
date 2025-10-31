@@ -31,3 +31,4 @@ else:
     plt.title(f"SNPs between sequence: total {len(snp_locations)}")
     plt.tight_layout()
     plt.show()
+    
